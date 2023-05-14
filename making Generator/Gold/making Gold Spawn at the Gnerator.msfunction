@@ -1,0 +1,4 @@
+make sure its | Impulse / Unconditional / Needs Redstone
+
+
+summon minecraft:item -10 -60 5 {Item:{id:"minecraft:gold_ingot",Count:1}}
